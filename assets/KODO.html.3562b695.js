@@ -1,0 +1,1 @@
+const t={key:"v-6093d7d8",path:"/docs/v1/SS/KODO.html",title:"\u4E03\u725B\u4E91KODO",lang:"zh-CN",frontmatter:{title:"\u4E03\u725B\u4E91KODO"},excerpt:"",headers:[],git:{updatedTime:1646401354e3,contributors:[{name:"Akatsukiro",email:"aka@bep.ink",commits:2}]},filePathRelative:"docs/v1/SS/KODO.md"};export{t as data};

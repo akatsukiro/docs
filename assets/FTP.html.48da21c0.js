@@ -1,0 +1,1 @@
+const t={key:"v-3e7c6e66",path:"/docs/v1/SS/FTP.html",title:"FTP",lang:"zh-CN",frontmatter:{title:"FTP"},excerpt:"",headers:[],git:{updatedTime:1646401354e3,contributors:[{name:"Akatsukiro",email:"aka@bep.ink",commits:2}]},filePathRelative:"docs/v1/SS/FTP.md"};export{t as data};

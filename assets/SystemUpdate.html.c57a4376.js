@@ -1,0 +1,1 @@
+const t={key:"v-1e4fd870",path:"/docs/v1/SystemUpdate.html",title:"\u7CFB\u7EDF\u5347\u7EA7",lang:"zh-CN",frontmatter:{title:"\u7CFB\u7EDF\u5347\u7EA7"},excerpt:"",headers:[],git:{updatedTime:1646401354e3,contributors:[{name:"Akatsukiro",email:"aka@bep.ink",commits:2}]},filePathRelative:"docs/v1/SystemUpdate.md"};export{t as data};

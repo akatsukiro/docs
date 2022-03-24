@@ -1,0 +1,1 @@
+const t={key:"v-ce292b60",path:"/docs/v2/quick-start/migration.html",title:"\u8FC1\u79FB",lang:"zh-CN",frontmatter:{title:"\u8FC1\u79FB",description:"\u8FC1\u79FB\u5170\u7A7A\u56FE\u5E8A"},excerpt:"",headers:[],git:{updatedTime:1647585248e3,contributors:[{name:"Wisp X",email:"1591788658@qq.com",commits:2}]},filePathRelative:"docs/v2/quick-start/migration.md"};export{t as data};

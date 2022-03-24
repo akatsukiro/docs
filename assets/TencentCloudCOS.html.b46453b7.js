@@ -1,0 +1,1 @@
+const t={key:"v-42b03650",path:"/docs/v1/SS/TencentCloudCOS.html",title:"\u817E\u8BAF\u4E91COS",lang:"zh-CN",frontmatter:{title:"\u817E\u8BAF\u4E91COS"},excerpt:"",headers:[],git:{updatedTime:1646401354e3,contributors:[{name:"Akatsukiro",email:"aka@bep.ink",commits:2}]},filePathRelative:"docs/v1/SS/TencentCloudCOS.md"};export{t as data};

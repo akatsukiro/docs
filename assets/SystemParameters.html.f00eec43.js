@@ -1,0 +1,1 @@
+const t={key:"v-70f56972",path:"/docs/v1/SystemParameters.html",title:"\u7CFB\u7EDF\u53C2\u6570\u8BBE\u7F6E",lang:"zh-CN",frontmatter:{title:"\u7CFB\u7EDF\u53C2\u6570\u8BBE\u7F6E"},excerpt:"",headers:[],git:{updatedTime:1646401354e3,contributors:[{name:"Akatsukiro",email:"aka@bep.ink",commits:2}]},filePathRelative:"docs/v1/SystemParameters.md"};export{t as data};
